@@ -1,0 +1,10 @@
+Creator Quynh-Anh Lan Pham (phamlanquynhanh@gmail.com)
+
+App name: Bird-Game
+Description: Similar to Google Chrome offline dinosaur game, but birb.
+
+How to run:
+    Download to your system and run by running the following sequence of commands:
+    $ git clone <link to this repo>
+    $ javac Window.java
+    $ java Window
